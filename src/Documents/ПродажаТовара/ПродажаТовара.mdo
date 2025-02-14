@@ -58,17 +58,19 @@
     <fullTextSearch>Use</fullTextSearch>
     <dataHistory>Use</dataHistory>
   </attributes>
-  <attributes uuid="79eb3685-efcd-4334-993e-4d9e199d3f2c">
-    <name>Реквизит</name>
+  <attributes uuid="7a45f101-63c4-4360-ac5a-2ccb855dbee8">
+    <name>Сумма</name>
     <synonym>
       <key>ru</key>
-      <value>Реквизит</value>
+      <value>Сумма</value>
     </synonym>
     <type>
-      <types>String</types>
-      <stringQualifiers>
-        <length>10</length>
-      </stringQualifiers>
+      <types>Number</types>
+      <numberQualifiers>
+        <precision>10</precision>
+        <scale>2</scale>
+        <nonNegative>true</nonNegative>
+      </numberQualifiers>
     </type>
     <minValue xsi:type="core:UndefinedValue"/>
     <maxValue xsi:type="core:UndefinedValue"/>
