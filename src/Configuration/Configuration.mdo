@@ -38,5 +38,8 @@
     </synonym>
     <languageCode>ru</languageCode>
   </languages>
+  <commonCommands>CommonCommand.НайтиТоварПоНазванию</commonCommands>
   <catalogs>Catalog.Товары</catalogs>
+  <documents>Document.ПродажаТовара</documents>
+  <dataProcessors>DataProcessor.Обработка</dataProcessors>
 </mdclass:Configuration>
