@@ -42,4 +42,5 @@
   <catalogs>Catalog.Товары</catalogs>
   <documents>Document.Документ</documents>
   <documents>Document.ПродажаТовара</documents>
+  <informationRegisters>InformationRegister.ПростоРегистр</informationRegisters>
 </mdclass:Configuration>

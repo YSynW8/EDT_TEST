@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:InformationRegister xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="026c1e0c-0a22-46fb-a420-1ded62705975">
+  <producedTypes>
+    <selectionType typeId="f354bf82-1d59-4a7f-8a7d-67c6b9d61591" valueTypeId="0c60085d-ff6a-432d-bc53-b9c4054275c6"/>
+    <listType typeId="b0db5bb1-6944-4340-af57-2e55c2e6903c" valueTypeId="816bbd3b-608e-48cf-bde1-017fa1471b8b"/>
+    <managerType typeId="57c090be-0118-43a2-80c8-a80e5157cbcf" valueTypeId="afa4bbc6-e256-47ec-9f5b-5762bca8761e"/>
+    <recordSetType typeId="725331d6-0272-4ed4-a881-4097793ab17a" valueTypeId="361db42b-03a8-4449-ab46-4d34dbf6104f"/>
+    <recordKeyType typeId="29a55b5c-0eea-4645-94f7-452438951151" valueTypeId="bd4c7296-dfea-4757-bf84-984825526262"/>
+    <recordType typeId="5c9224e0-357b-49b6-a7da-fa7207678c34" valueTypeId="500e78af-810e-40dc-8a30-a4376edbe015"/>
+    <recordManagerType typeId="0e9b7518-967d-4ad6-aa18-6fc67bc95c02" valueTypeId="d92a2671-1fde-4ee7-8d54-bfae5a1764a7"/>
+  </producedTypes>
+  <name>ПростоРегистр</name>
+  <synonym>
+    <key>ru</key>
+    <value>Просто регистр</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <editType>InDialog</editType>
+  <dataLockControlMode>Managed</dataLockControlMode>
+</mdclass:InformationRegister>
