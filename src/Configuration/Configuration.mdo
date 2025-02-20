@@ -44,5 +44,6 @@
   <documents>Document.Документ</documents>
   <documents>Document.Документ1</documents>
   <documents>Document.ПродажаТовара</documents>
+  <enums>Enum.Перечисление</enums>
   <informationRegisters>InformationRegister.ПростоРегистр</informationRegisters>
 </mdclass:Configuration>
