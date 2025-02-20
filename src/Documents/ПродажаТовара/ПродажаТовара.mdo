@@ -79,10 +79,10 @@
     <dataHistory>Use</dataHistory>
   </attributes>
   <attributes uuid="131f39c7-e5b7-468d-8b41-2bbbdf68a26f">
-    <name>Реквизит</name>
+    <name>ДокументЦена</name>
     <synonym>
       <key>ru</key>
-      <value>Реквизит</value>
+      <value>Документ цена</value>
     </synonym>
     <type>
       <types>String</types>
